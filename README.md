@@ -55,4 +55,4 @@ Examina exhaustivamente los precios de productos de navidad en la ciudad de posa
       [[Presentaciones sobre Precios comparados y Recomendaciones]( AQUI VA LA DIRECCION PRESENTACIONES REALIZADAS)]
    
  **Paso 6:** Copiar y pegar el link de tu examen Github en el siguiente formulario
-[[ENVIAR_EXAMEN_FN](https://forms.gle/hd2KXz3hhSEDbtaR7)]
+[[ENVIAR_EXAMEN_FN](https://forms.gle/qMiWt1eAgiJ5jYNd9)]
