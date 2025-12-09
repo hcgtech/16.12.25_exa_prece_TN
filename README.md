@@ -1,4 +1,4 @@
-# EXAMEN FINAL 10-DIC-25 TURNO MAÑANA (MIERCOLES)
+# EXAMEN FINAL 17-DIC-25 TURNO MAÑANA (MIERCOLES)
 # REGULAR COMPLETO
 ## TECNICATURA PRECEPTOR
 
@@ -40,7 +40,7 @@ Examina exhaustivamente los precios de productos de navidad en la ciudad de posa
 * En tu github, abre y edita el README.MD
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
-      #  EXAMEN FINAL 10-DIC-25 TURNO MAÑANA (MIERCOLES)
+      #  EXAMEN FINAL 17-DIC-25 TURNO MAÑANA (MIERCOLES)
       # REGULAR COMPLETO
       ## TECNICATURA PRECEPTOR
       
