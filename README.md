@@ -11,7 +11,7 @@
 ## El proyecto trata sobre protocolo de emergencia y evacuación para un aserradero. 
 ## 4. Instrucciones para Desarrollo e Implementación
 **Paso 1:**
-* En Gitub, crea un repositorio llamado **examen_09-Dic-2025**
+* En Gitub, crea un repositorio llamado **examen_17-Dic-2025**
 
 **Paso 2:**
 * **Solicitar a perplexity lo siguiente:**
@@ -41,7 +41,7 @@ Examina exhaustivamente los precios de productos de navidad en la ciudad de posa
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
       #  EXAMEN FINAL 17-DIC-25 TURNO MAÑANA (MIERCOLES)
-      # REGULAR COMPLETO
+      # REGULAR COMPLETO/INCOMPLETO LIBRE
       ## TECNICATURA PRECEPTOR
       
       ## Precios comparativos de Artículos de Navidad Posadas y Encarnación.
