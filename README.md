@@ -8,7 +8,7 @@
 * abierto tu usuario en [[perplexity.ai](https://www.perplexity.ai/)]
 * abierto tu usuario de [[gamma.app](https://gamma.app/)]
 
-## El proyecto trata sobre protocolo de emergencia y evacuación para un aserradero. 
+## El proyecto trata sobre INFORME DE PRECIOS PRODUCTOS NAVIDEÑOS. 
 ## 4. Instrucciones para Desarrollo e Implementación
 **Paso 1:**
 * En Gitub, crea un repositorio llamado **examen_16-Dic-2025**
